@@ -1,5 +1,5 @@
 
-;copy the elements of an array to another array with reverse order.
+;copy the elements of an array to another array with reverse order(without loop).
 
 org 100h   
 
@@ -20,11 +20,6 @@ mov [bp+3],si
 
 mov si, [bx+0]
 mov [bp+4],si
-
-
- 
-
-
 
 ret
 
