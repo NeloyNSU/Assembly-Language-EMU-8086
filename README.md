@@ -2,3 +2,4 @@
 Some sample coding for emu8086.
 
 1. basic arithmetic- add sub
+2. Array Define
