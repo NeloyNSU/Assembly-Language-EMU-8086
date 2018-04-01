@@ -8,4 +8,5 @@ Some sample coding for emu8086.
 5. Copy the elements of an array to another array with reverse order using loop.
 6. Input a string and print in the next line
 7. Input two numbers(sum must be equal or less than 9) from the user and show their summation
+8. check whether a number is prime or not
 
