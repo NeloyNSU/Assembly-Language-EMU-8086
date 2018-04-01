@@ -3,10 +3,6 @@
                 V3 DB   'EQUAL$'
                 V4 DB   'NOTEQAUL$'
 
-
-
-
-
 MAIN    PROC 
 
         MOV  AX,@DATA
